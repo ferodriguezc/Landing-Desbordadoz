@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Landing-Desbordadoz/static/css/main.ae42ac5f.css",
-    "main.js": "/Landing-Desbordadoz/static/js/main.845264f1.js",
+    "main.js": "/Landing-Desbordadoz/static/js/main.cdcd578e.js",
     "index.html": "/Landing-Desbordadoz/index.html",
     "main.ae42ac5f.css.map": "/Landing-Desbordadoz/static/css/main.ae42ac5f.css.map",
-    "main.845264f1.js.map": "/Landing-Desbordadoz/static/js/main.845264f1.js.map"
+    "main.cdcd578e.js.map": "/Landing-Desbordadoz/static/js/main.cdcd578e.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.845264f1.js"
+    "static/js/main.cdcd578e.js"
   ]
 }
