@@ -1,0 +1,123 @@
+{
+  "Header": {
+    "title": "El bordado perfecto para cada prenda",
+    "paragraph": "Bordados contemporáneos que hacen que tu ropa y accesorios hablen por sí solos."
+  },
+  "About": {
+    "paragraph": "En Desbordadoz, nos apasiona el arte del bordado moderno. Creamos diseños únicos que transforman prendas y parches en verdaderas obras de arte. Nuestro talentoso equipo se dedica a ofrecer la mejor calidad y atención al detalle, asegurando que cada pieza refleje tu estilo personal. Descubre cómo nuestros bordados pueden darle vida a tu guardarropa y hacer que te destaques. ¡Bienvenido a nuestra comunidad de creatividad y estilo!",
+    "Why": [
+      "Diseños Únicos",
+      "Calidad Superior",
+      "Creatividad"
+    ],
+    "Why2": [
+
+      "Satisfacción Garantizada",
+      "Variedad de diseñso",
+      "Compromiso Ecológico"
+    ]
+  },
+
+  "Gallery": [
+    {
+      "title": "Diseño ditto",
+      "largeImage": "img/portfolio/diseño1.jpg",
+      "smallImage": "img/portfolio/diseño1.jpg"
+    },
+    {
+      "title": "Diseño pochita",
+      "largeImage": "img/portfolio/diseño2.jpg",
+      "smallImage": "img/portfolio/diseño2.jpg"
+    },
+    {
+      "title": "Diseño bad smille",
+      "largeImage": "img/portfolio/diseño3.jpg",
+      "smallImage": "img/portfolio/diseño3.jpg"
+    },
+    {
+      "title": "Diseño ojo Nezuko",
+      "largeImage": "img/portfolio/diseño4.jpg",
+      "smallImage": "img/portfolio/diseño4.jpg"
+    },
+    {
+      "title": "Diseño reptar",
+      "largeImage": "img/portfolio/diseño5.jpg",
+      "smallImage": "img/portfolio/diseño5.jpg"
+    },
+    {
+      "title": "Diseño Eva_01",
+      "largeImage": "img/portfolio/diseño6.jpg",
+      "smallImage": "img/portfolio/diseño6.jpg"
+    },
+    {
+      "title": "Diseño cabeza tiburon",
+      "largeImage": "img/portfolio/diseño7.jpg",
+      "smallImage": "img/portfolio/diseño7.jpg"
+    },
+    {
+      "title": "Diseño rana",
+      "largeImage": "img/portfolio/diseño8.jpg",
+      "smallImage": "img/portfolio/diseño8.jpg"
+    },
+    {
+      "title": "Diseño corazon roto",
+      "largeImage": "img/portfolio/diseño9.jpg",
+      "smallImage": "img/portfolio/diseño9.jpg"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.png",
+      "text": "\"Los bordados son preciosos y de una calidad excelente. Me encantó cómo lucen en mis prendas, ¡sin duda volveré a comprar!\"",
+      "name": "Benjamin C."
+    },
+    {
+      "img": "img/testimonials/02.png",
+      "text": "\"La variedad de bordados disponibles es genial.\"",
+      "name": "Luis L."
+    },
+    {
+      "img": "img/testimonials/03.png",
+      "text": "\"¡Me encantaron las poleras bordadas! Los diseños son únicos y la calidad del bordado es impresionante. Ya he recibido muchos cumplidos.\"",
+      "name": "Carolina P."
+    },
+    {
+      "img": "img/testimonials/04.png",
+      "text": "\"Las poleras bordadas tienen un acabado espectacular. El bordado resalta mucho y hace que la prenda se vea única y de gran calidad.\"",
+      "name": "Elefante ver"
+    },
+    {
+      "img": "img/testimonials/05.png",
+      "text": "\"La calidad del bordado en las poleras es insuperable. Se siente premium y le da un toque moderno y estilizado a cada prenda.\"",
+      "name": "Sofia D"
+    },
+    {
+      "img": "img/testimonials/06.png",
+      "text": "\"Las poleras bordadas que compré son perfectas. El bordado es duradero y sigue impecable tras varios lavados. ¡Muy recomendable!\"",
+      "name": "Fernando L"
+    }
+  ],
+
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "variedad de Bordados ",
+      "text": "Ofrecemos una amplia gama de bordados en poleras y parches para que encuentres lo que buscas."
+    },
+    {
+      "icon": "fa fa-pencil",
+      "title": "Diseños Modernos",
+      "text": "Integramos técnicas de bordado clásicas con diseños vanguardistas, aportando un toque moderno y personalizado a cada pieza."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Precencia local",
+      "text": "Ofrecemos nuestros servicios tanto a nivel local como con la opción de envíos a otras regiones."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Materiales de calidad",
+      "text": "Trabajamos con hilos de alta calidad y textiles duraderos que garantizan que los bordados mantengan su forma y color con el tiempo."
+    }
+  ]
+}
